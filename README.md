@@ -1,7 +1,7 @@
 ### Hi there, I'm Skye - aka [skygil][website] 👋
 
 [![Website](https://img.shields.io/website?label=skygil.com&style=for-the-badge&url=https%3A%2F%2Fskygil.com)](https://skygil.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/skygil?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fskygil&screen_name=skygil)
+[![Twitter Follow](https://img.shields.io/twitter/follow/skygil?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fskye_gilbreth&screen_name=skye_gilbreth)
 
 ## I'm a new graduate, artist, Developer, and cheer coach!!
 
