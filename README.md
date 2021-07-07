@@ -1,6 +1,6 @@
 ### Hi there, I'm Skye - aka [skygil][website] 👋
 
-[![Website](https://img.shields.io/website?label=skygil.com&style=for-the-badge&url=https%3A%2F%2Fskygil.com)](https://skygil.com)
+[![Website](https://img.shields.io/website?label=skyegilbreth.com&style=for-the-badge&url=https%3A%2F%2Fwww.skyegilbreth.com)](https://www.skyegilbreth.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/skye_gilbreth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fskye_gilbreth&screen_name=skye_gilbreth)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/cap0at?style=for-the-badge)
 
