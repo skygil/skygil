@@ -5,15 +5,13 @@
 
 ## I'm a new graduate, artist, Developer, and cheer coach!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Obtain a job as a data scientist and enter into some competitions on [kaggle](https://www.kaggle.com)
 - ⚡ Fun fact: I love to paint, work on jigsaw puzzles and play video games
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-skygil.vercel.app/api/spotify-playing" alt="skygil Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -47,4 +45,4 @@
 
 [website]: https://skyegilbreth.com
 [twitter]: https://twitter.com/skyegilbreth
-[linkedin]: https://linkedin.com/in/skyegilbreth
+[linkedin]: https://www.linkedin.com/in/SkyeGilbreth 
