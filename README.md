@@ -11,6 +11,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Obtain a job as a data scientist and enter into some competitions on [kaggle](https://www.kaggle.com)
 - ⚡ Fun fact: I love to paint, work on jigsaw puzzles and play video games
+- 📄 [Resume](https://gitconnected.com/skygil/resume)
 
 
 
