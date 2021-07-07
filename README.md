@@ -54,10 +54,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Skye Gilbreth's GitHub Stats" src="https://github-readme-stats2-teal.vercel.app/api?username=skygil&show_icons=true&hide_border=true&theme=radical" />
   <img align="left" alt="Skye Gilbreth's GitHub Stats" src="https://github-readme-stats2-teal.vercel.app/api?username=skygil&show_icons=true&hide_border=true&theme=algolia" />
-  <img align="left" alt="Skye Gilbreth's GitHub Stats" src="https://github-readme-stats2-teal.vercel.app/api?username=skygil&show_icons=true&hide_border=true&theme=blue-green" />
-  <img align="left" alt="Skye Gilbreth's GitHub Stats" src="https://github-readme-stats2-teal.vercel.app/api?username=skygil&show_icons=true&hide_border=true&theme=midnight-purple" />
+
 
 </details>
 
