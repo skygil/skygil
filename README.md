@@ -3,7 +3,7 @@
   <a href="https://www.skyegilbreth.com/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website</a> •
   <a href="https://twitter.com/skye_gilbreth"><img src="https://img.icons8.com/color/96/000000/twitter-circled.png" height="16"/>Twitter</a> •
   <a href="https://www.linkedin.com/in/SkyeGilbreth/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
-  <a href="mailto:gilbrethiskye@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
+  <a href="mailto:gilbrethiskye@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>  
 </p>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
@@ -25,22 +25,18 @@ I'm a passionate:1st_place_medal:, creative:art: and perceptive🔭 Data Scienti
 - <img src="https://img.icons8.com/color/20/000000/search--v3.png"/> I’m looking to collaborate with other content creators 👥
 - ⚡ Fun fact: I love to paint, work on jigsaw puzzles and play video games🎮<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" height="24">
 
-### Connect with me:
-***  
-
-[<img align="left" alt="skygil.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+## <img src="https://img.icons8.com/color/30/000000/myspace.png"/> Connect with me:  
+[<img src="https://img.icons8.com/color/30/000000/globe.png"/>][website]
 [<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="skye_gilbreth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img src="https://img.icons8.com/color/30/000000/twitter--v1.png"/>][twitter]
 [<img src="https://img.icons8.com/color/30/000000/medium-monogram.png"/>][medium]
 [<img src="https://img.icons8.com/color/30/000000/reddit.png"/>][reddit]
 [<img src="https://img.icons8.com/color/30/000000/twitch--v2.png"/>][twitch]
 [<img src="https://img.icons8.com/color/30/000000/gmail--v1.png"/>][gmail]
-
+[<img src="https://img.icons8.com/color/30/000000/angelist.png"/>][angellist]
 <br />
 
-### Languages and Tools:
-***  
-  
+## 🛠️ Languages and Tools:   
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 ![VS2019](https://img.icons8.com/color/30/visual-studio-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
 ![Python](https://img.icons8.com/color/30/000000/python--v2.png)
@@ -55,6 +51,7 @@ I'm a passionate:1st_place_medal:, creative:art: and perceptive🔭 Data Scienti
 ![SSMS](https://img.icons8.com/color/30/000000/microsoft-sql-server.png)
 ![GatsbyJS](https://img.icons8.com/color/30/000000/gatsbyjs.png)
 ![Oracle](https://img.icons8.com/color/30/000000/oracle-logo.png)
+![Jira](https://img.icons8.com/color/30/000000/jira.png)
 <br>
 </br>
 
@@ -71,20 +68,24 @@ I'm a passionate:1st_place_medal:, creative:art: and perceptive🔭 Data Scienti
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
+
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=skygil)
 </details>
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: <b>GitHub Stats</b></summary><br/>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skygil&theme=algolia&fire=FD2D2D&hide_border=true)](https://git.io/streak-stats)  
+    
+  [![Skye's Github Stats](https://github-readme-stats2-teal.vercel.app/api?username=skygil&layout=compact&show_icons=true&count_private=true&hide_border=true&theme=algolia)](https://github.com/skygil/github-readme-stats)
+  
+  [![Top Language](https://github-readme-stats2-teal.vercel.app/api/top-langs/?username=skygil&langs_count=8&layout=compact&show_icons=true&hide_border=true&theme=algolia)](https://github.com/skygil/github-readme-stats2)  
 
-  <img align="left" alt="Skye Gilbreth's GitHub Stats" src="https://github-readme-stats2-teal.vercel.app/api?username=skygil&layout=compact&show_icons=true&count_private=true&hide_border=true&theme=algolia" />
-  <img align="right" alt="Skye Gilbreth's GitHub Stats" src="https://github-readme-stats2-teal.vercel.app/api/top-langs/?username=skygil&langs_count=8&layout=compact&show_icons=true&hide_border=true&theme=algolia" />  
-<!-- markdownlint-enable MD033 -->
   
    
-  <img align="center" alt="skygil🔥 Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=skygil&"  />
+
 
 </details>
-
+<!-- markdownlint-enable MD033 -->
 
 ---
 
