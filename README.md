@@ -50,7 +50,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
-  
+1. ❗️ Opened issue [#418](https://github.com/rahuldkjain/github-profile-readme-generator/issues/418) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
   <!--END_SECTION:activity-->
 
 
