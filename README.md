@@ -16,6 +16,7 @@
 I'm a passionate:1st_place_medal:, creative:art: and perceptive🔭 Data Scientist/Engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. Anything and everything fascinates me. My interests range from Data Science📈 to crafts🎨 to gaming🎮 to coaching cheerleading to learning new languages. I'm always open to new ideas and opportunities.
 
 - 👨‍💻 My projects and portfolio are available at [![Website](https://img.shields.io/website?label=skyegilbreth.com&style=flat&url=https%3A%2F%2Fwww.skyegilbreth.com)](https://www.skyegilbreth.com)
+- 📄 Check out my [resume][resume]
  - 🥅 2021 Goals: 
    - [x] ~~Graduate Grad School~~ 🎓
    - [ ] Get a job as a Data Scientist or Data Engineer <img src="https://img.icons8.com/color/20/000000/combo-chart--v2.png"/>
@@ -69,12 +70,13 @@ I'm a passionate:1st_place_medal:, creative:art: and perceptive🔭 Data Scienti
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=skygil)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=skygil&theme=algolia)
 </details>
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary><br/>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skygil&theme=algolia&fire=FD2D2D&hide_border=true)](https://git.io/streak-stats)  
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skygil&count_private=true&hide_border=true&theme=algolia&fire=FD2D2D)](https://git.io/streak-stats)
     
   [![Skye's Github Stats](https://github-readme-stats2-teal.vercel.app/api?username=skygil&layout=compact&show_icons=true&count_private=true&hide_border=true&theme=algolia)](https://github.com/skygil/github-readme-stats)
   
@@ -90,6 +92,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 ---
 
 [website]: https://skyegilbreth.com
+[resume]:https://registry.jsonresume.org/skygil
 [twitter]: https://twitter.com/skye_gilbreth
 [linkedin]: https://www.linkedin.com/in/SkyeGilbreth 
 [medium]: https://medium.com/@skyigilb
