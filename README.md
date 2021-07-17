@@ -79,7 +79,7 @@ I'm a passionate:1st_place_medal:, creative:art: and perceptive🔭 Data Scienti
   [![Skye's Github Stats](https://github-readme-stats2-teal.vercel.app/api?username=skygil&layout=compact&show_icons=true&count_private=true&hide_border=true&theme=algolia)](https://github.com/skygil/github-readme-stats)
   
   [![Top Language](https://github-readme-stats2-teal.vercel.app/api/top-langs/?username=skygil&langs_count=8&layout=compact&show_icons=true&hide_border=true&theme=algolia)](https://github.com/skygil/github-readme-stats2)  
-
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
    
 
