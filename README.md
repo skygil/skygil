@@ -15,13 +15,12 @@
 
 I'm a passionate:1st_place_medal:, creative:art: and perceptive🔭 Data Scientist/Engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. Anything and everything fascinates me. My interests range from Data Science📈 to crafts🎨 to gaming🎮 to coaching cheerleading to learning new languages. I'm always open to new ideas and opportunities.
 
-- 👨‍💻 My projects and portfolio are available at [![Website](https://img.shields.io/website?label=skyegilbreth.com&style=flat&url=https%3A%2F%2Fwww.skyegilbreth.com)](https://www.skyegilbreth.com)
-- 📄 Check out my [resume][resume]
- - 🥅 2021 Goals: 
-   - [x] ~~Graduate Grad School~~ 🎓
+<!--- 👨‍💻 My projects and portfolio are available at [![Website](https://img.shields.io/website?label=skyegilbreth.com&style=flat&url=https%3A%2F%2Fwww.skyegilbreth.com)](https://www.skyegilbreth.com)
+- 📄 Check out my [resume][resume]-->
+ - 🥅 2023 Goals: 
    - [ ] Get a job as a Data Scientist or Data Engineer <img src="https://img.icons8.com/color/20/000000/combo-chart--v2.png"/>
-   - [x] ~~Create a portfolio~~ <img src="https://img.icons8.com/color/20/000000/moleskine.png"/>
-   - [ ] Attend my 1st hackathon for Data Science  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   - [ ] Create a portfolio <img src="https://img.icons8.com/color/20/000000/moleskine.png"/>
+   - [ ] Compete in a Data Science Competition on Kaggle  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :book: I’m currently learning everything <img src="https://img.icons8.com/color/25/000000/open-book--v2.png" /> 
 - <img src="https://img.icons8.com/color/20/000000/search--v3.png"/> I’m looking to collaborate with other content creators 👥
 - ⚡ Fun fact: I love to paint, work on jigsaw puzzles and play video games🎮<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" height="24">
