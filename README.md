@@ -17,10 +17,10 @@ I'm a passionate:1st_place_medal:, creative:art: and perceptive🔭 Data Scienti
 
 <!--- 👨‍💻 My projects and portfolio are available at [![Website](https://img.shields.io/website?label=skyegilbreth.com&style=flat&url=https%3A%2F%2Fwww.skyegilbreth.com)](https://www.skyegilbreth.com)
 - 📄 Check out my [resume][resume]-->
- - 🥅 2023 Goals: 
-   - [ ] Get a job as a Data Scientist or Data Engineer <img src="https://img.icons8.com/color/20/000000/combo-chart--v2.png"/>
+ - 🥅 2024 Goals: 
+   - [ ] Get a job that'll provide career growth and excite me <img src="https://img.icons8.com/color/20/000000/combo-chart--v2.png"/>
    - [ ] Create a portfolio <img src="https://img.icons8.com/color/20/000000/moleskine.png"/>
-   - [ ] Compete in a Data Science Competition on Kaggle  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   - [ ] Enhance my programming skills in Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :book: I’m currently learning everything <img src="https://img.icons8.com/color/25/000000/open-book--v2.png" /> 
 - <img src="https://img.icons8.com/color/20/000000/search--v3.png"/> I’m looking to collaborate with other content creators 👥
 - ⚡ Fun fact: I love to paint, work on jigsaw puzzles and play video games🎮<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" height="24">
@@ -28,12 +28,8 @@ I'm a passionate:1st_place_medal:, creative:art: and perceptive🔭 Data Scienti
 ## <img src="https://img.icons8.com/color/30/000000/myspace.png"/> Connect with me:  
 [<img src="https://img.icons8.com/color/30/000000/globe.png"/>][website]
 [<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>][linkedin]
-[<img src="https://img.icons8.com/color/30/000000/twitter--v1.png"/>][twitter]
 [<img src="https://img.icons8.com/color/30/000000/medium-monogram.png"/>][medium]
-[<img src="https://img.icons8.com/color/30/000000/reddit.png"/>][reddit]
-[<img src="https://img.icons8.com/color/30/000000/twitch--v2.png"/>][twitch]
 [<img src="https://img.icons8.com/color/30/000000/gmail--v1.png"/>][gmail]
-[<img src="https://img.icons8.com/color/30/000000/angelist.png"/>][angellist]
 <br />
 
 ## 🛠️ Languages and Tools:   
@@ -87,7 +83,10 @@ Note: Top languages is only a metric of the languages my public code consists of
 
 </details>
 <!-- markdownlint-enable MD033 -->
-
+<!-- [<img src="https://img.icons8.com/color/30/000000/twitter--v1.png"/>][twitter] 
+[<img src="https://img.icons8.com/color/30/000000/reddit.png"/>][reddit]
+[<img src="https://img.icons8.com/color/30/000000/twitch--v2.png"/>][twitch]
+[<img src="https://img.icons8.com/color/30/000000/angelist.png"/>][angellist]-->
 ---
 
 [website]: https://skyegilbreth.com
